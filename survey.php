@@ -44,13 +44,13 @@ print("<!DOCTYPE html>
 			<link rel='icon' type='image/x-icon' href='favicon.ico'>
 			<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/>
 			<!-- Bootstrap core CSS -->
-			<link href='dist/css/bootstrap.css' rel='stylesheet'>
+			<link href='dist/css/bootstrap.min.css' rel='stylesheet'>
 			<!-- Custom styles for this template -->
 			<link href='starter-template.css' rel='stylesheet'>
-			<!-- Le HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+			<!-- Le HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
 			<!--[if lt IE 9]>
-			  <script src='assets/js/html5shiv.js'></script>
-			  <script src='assets/js/respond.min.js'></script>
+			  <script src='dist/js/html5shiv.min.js'></script>
+			  <script src='dist/js/respond.min.js'></script>
 			<![endif]-->
 			<style type='text/css'>
 			body {
@@ -177,7 +177,7 @@ print("		  </div> <!--End Container-->
 		<!-- Bootstrap core JavaScript
 	    ================================================== -->
 	    <!-- Placed at the end of the document so the pages load faster -->
-	    <script src='assets/js/jquery.js'></script>
+	    <script src='dist/js/jquery.js'></script>
 	    <script src='dist/js/bootstrap.min.js'></script>
 		</body>
 ");
