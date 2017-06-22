@@ -175,8 +175,8 @@ print("
 print("		  </div> <!--End Container-->
 		  </form>
 		<!-- Bootstrap core JavaScript
-	    ================================================== -->
-	    <!-- Placed at the end of the document so the pages load faster -->
+	    ==================================================-->
+	    <!-- Placed at the end of the document so the pages load faster-->
 	    <script src='dist/js/jquery.js'></script>
 	    <script src='dist/js/bootstrap.min.js'></script>
 		</body>
