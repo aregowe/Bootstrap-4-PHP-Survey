@@ -40,7 +40,7 @@ print("<!DOCTYPE html>
 		<head>
 			<meta charset='utf-8'>
 			<meta name='viewport' content='width=device-width, initial-scale=1.0'>
-			<title>A.M. Leonard | ".$RowH['SURNAM_0']."</title>
+			<title> | ".$RowH['SURNAM_0']."</title>
 			<link rel='icon' type='image/x-icon' href='favicon.ico'>
 			<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/>
 			<!-- Bootstrap core CSS -->
