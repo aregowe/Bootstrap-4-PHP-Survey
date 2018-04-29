@@ -19,6 +19,6 @@ That's it for table structure! Pretty simplistic.
 
 survey.php is where the main magic happens. 
 
-The overall project uses Bootstrap v3.3.7.
+The overall project uses Bootstrap v4.1.0.
 
 If you have any questions, don't hesitate to e-mail me at: janderson133787@gmail.com
